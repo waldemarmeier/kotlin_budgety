@@ -2,7 +2,7 @@
 
 Small budget-app based on a project from a udemy course. I added a [ktor](https://github.com/ktorio/ktor) / mysql backend and moved the application to docker containers. 
 
-Just run `docker-compose up . to start the application.
+Just run `docker-compose up ` to start the application.
 
 ## Credits to:
  
